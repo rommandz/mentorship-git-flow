@@ -11,8 +11,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
         </header>
+        <h1 className="App-intro">Mentorship git flow task</h1>
         <img src={homer} alt='homer' />
-        <p>Mentorship git flow task</p>
       </div>
     );
   }
